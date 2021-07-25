@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -91,11 +89,6 @@ h2 {
     box-shadow: 0 0.4rem 1.4rem 0 rgba(255, 255, 0, 0.5)
 }
 
-.fa-crown {
-    font-size: 2.5rem;
-    margin-left:1rem;
-}
-
 
 /* End Page CSS */
 
@@ -134,10 +127,4 @@ input::placeholder {
 
 #saveScreenBtn {
     border:none;
-}
-
-.fa-home {
-    margin-left: 2rem;
-    font-size: 2rem;
-    color: rgb(26, 26, 26);
 }
